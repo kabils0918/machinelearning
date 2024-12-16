@@ -1,0 +1,6 @@
+Modules
+1) data collection
+2) data preprocessing
+3) EDA( exploratory data analysis)
+4) model implementation
+5) prediction
